@@ -1,0 +1,4 @@
+bloquer sur la création du dossier my-app-auth en faisant la ligne de commande dans le terminal 
+vue create my-auth-app
+
+cd my-auth-app
